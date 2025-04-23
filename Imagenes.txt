@@ -1,0 +1,12 @@
+Negativo de una imagen.
+Aumento de contraste: 0-255 todo depende de la luz y la oscuridad 
+cuanto brillo tendra cada pixel.
+Aumento de Brillo: mas alla de 128 voy iluminando 
+
+Histograma.- Reprensatacion grafica de la distribucion. Para encontrar bordes
+
+
+Valores positivos el brillo aumenta 
+
+
+ 

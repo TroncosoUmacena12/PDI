@@ -1,0 +1,8 @@
+x1 = float(input("Ingrese x1: "))
+y1 = float(input("Ingrese y1: "))
+x2 = float(input("Ingrese x2: "))
+y2 = float(input("Ingrese y2: "))
+distancia = pow(pow(x2 - x1, 2) + pow(y2 - y1, 2), 0.5)
+print(distancia)
+distanciaround=round(distancia, 2)
+print(distanciaround)
