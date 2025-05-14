@@ -2,3 +2,7 @@ git status
 git add .
 git commit -m "Actualización de código"
 git push origin master
+
+
+En anaconda 
+pip install opencv-python opencv-contrib-python numpy
